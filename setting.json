@@ -1,6 +1,6 @@
 {
-    "TOKEN":"MTA4OTE0MDQ5MTk1NTczNjY2Ng.GHPCIS.uGuNtjvn1sGpAMBNCOt2gEPFBBihy02nypS8V0",
+    "TOKEN":"MTA4OTE0MDQ5MTk1NTczNjY2Ng.GZPori.xyfUOzbljvPKUg8IOm9NiJxGmbnE9juag3g5GA",
     "welcome_channel" : "1090560780832878622",
-    "leave_channel" : "1090560796171448330"
-
+    "leave_channel" : "1090560796171448330",
+    "pic" : ["C:\\Users\\TomLiu\\Desktop\\SideProject\\DiscordBot_NEWS\\pic\\pic1.JPG","C:\\Users\\TomLiu\\Desktop\\SideProject\\DiscordBot_NEWS\\pic\\pic2.JPG"]    
 }
